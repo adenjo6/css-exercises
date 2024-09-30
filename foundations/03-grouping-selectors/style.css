@@ -1,0 +1,19 @@
+/* style.css */
+/* same font size, and fonts */
+/* different color background and text */
+/* two classes */
+.click-me,
+.no-click-me {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.click-me {
+    color: white;
+    background-color: black;
+}
+
+.no-click-me {
+    color: black;
+    background-color: yellow;
+}
